@@ -3,7 +3,7 @@
 
 ### Мой технологический стек:
 - Java 11 (Core, Collections, Optional, Stream)
-- Spring Boot
+- Spring, Spring Boot
 - JDBC, Hibernate
 - PostgreSQL
 - Maven
